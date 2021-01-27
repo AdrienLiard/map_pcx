@@ -43,7 +43,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"main room"
+                 "value":"main_room"
                 }],
          "type":"tilelayer",
          "visible":true,
